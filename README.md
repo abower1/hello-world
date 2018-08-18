@@ -1,4 +1,4 @@
 # hello-world
 my first repository
 
-woo! Look at me edit this readme
+lookit that, I just deleted the text that was here
